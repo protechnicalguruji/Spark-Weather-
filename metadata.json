@@ -1,0 +1,8 @@
+{
+  "name": "Spark Station Weather",
+  "description": "Luxurious, elegant, and minimal weather app inspired by HIG, Liquid Glass, and VisionOS aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
